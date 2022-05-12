@@ -1,0 +1,3 @@
+Sensor Burner (1) : 28FFB49915150158
+Sensor Hot Water Tank (2) : 28FFFF5D151501F6
+Safety Sensor : 28FFAC9B1515011D
